@@ -9,7 +9,7 @@ Install [typst](https://typst.app/) and then do: `typst compile motivated_math.t
 
 ## Getting a compiled pdf
 
-Head on over to the 'releases' tab and grab a copy of the latest compiled pdf.
+A copy of the latest release compiled pdf is available [here](https://github.com/BenH11235/motivated-math/releases/latest/download/motivated_math.pdf). You can also manually head on over to the 'releases' page and grab the pdf from there.
 
 ## Contributing
 
